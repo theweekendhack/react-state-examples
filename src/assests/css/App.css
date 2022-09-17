@@ -1,0 +1,23 @@
+*
+{
+
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+img
+{
+    width:550px;
+    height:500px;
+    object-fit: cover;
+
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin:10px 0px;
+}
